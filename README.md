@@ -35,7 +35,7 @@ This is a Java-based Event Ticketing System that allows users to book tickets fo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/tharikaleet06/EventTicketingSystem.git
+git clone https://github.com/tharikaleet06/Event_Ticketing_System.git
 ```
 
 2. Open the project in your preferred IDE.
